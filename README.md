@@ -7,4 +7,4 @@
 - 📫 Reach me through email: warrenwei.work@gmail.com
 
 [![Warren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warren-Wei&count_private=true&theme=graywhite&show_icons=true&hide_border=true)](https://github.com/Warren-Wei)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warren-Wei&count_private=true&theme=graywhite&langs_count=8&layout=compact&card_width=445&hide_border=true)](https://github.com/Warren-Wei/)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warren-Wei&count_private=true&theme=graywhite&langs_count=8&layout=compact&card_width=445&hide_border=true)](https://github.com/Warren-Wei/)-->
