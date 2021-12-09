@@ -1,8 +1,8 @@
 ### Hi there, I'm Warren Wei 👋
 <!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0073b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dongwei-wei/)-->
 ---
-- 🔭 I’m currently working on a .NET WPF Project and a .NET Blazor Web Application
-- 🌱 I’m currently learning React.JS and .NET6
+- 🔭 I’m currently working on a .NET WPF Project and a React Web Application
+- 🌱 I’m currently learning everything
 - 💬 Ask me about Anything
 - 📫 Reach me through email: warrenwei.work@gmail.com
 
