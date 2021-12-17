@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
+    # Runs at 12am 6am 12pm 18pm UTC
     - cron: "0 */6 * * *"
 
 jobs:
@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: Warren-Wei/waka-readme@master
+      - uses: Warren-Wei/waka-readme@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
