@@ -5,8 +5,8 @@ on:
     branches:
       - main
   schedule:
-    # Runs at 12am and 12pm UTC
-    - cron: "0 */12 * * *"
+    # Runs at 2pm UTC (12am AEST) every day
+    - cron: "0 14 * * *"
   workflow_dispatch:
 
 jobs:
