@@ -3,14 +3,26 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am 6am 12pm 18pm UTC
-    - cron: "0 */6 * * *"
+    # Runs at 12am 12pm UTC
+    - cron: "0 0/12 * * *"
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: Warren-Wei/waka-readme@main
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_LINES_OF_CODE: False
+          SHOW_PROFILE_VIEWS : False
+          SHOW_COMMIT : False
+          SHOW_DAYS_OF_WEEK : False
+          SHOW_LANGUAGE : True
+          SHOW_OS : True
+          SHOW_PROJECTS : False
+          SHOW_TIMEZONE : False
+          SHOW_EDITORS : True
+          SHOW_LANGUAGE_PER_REPO : False
+          SHOW_SHORT_INFO : False
+          SHOW_LOC_CHART : False
