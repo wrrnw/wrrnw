@@ -6,7 +6,7 @@ on:
       - main
   schedule:
     # Runs at 7pm UTC (6am AEST) every day
-    - cron: "0 19 * * *"
+    - cron: "0 */1 * * *"
   workflow_dispatch:
 
 jobs:
