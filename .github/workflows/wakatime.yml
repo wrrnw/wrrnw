@@ -7,6 +7,8 @@ on:
   schedule:
     # Runs at 7pm UTC (6am AEST) every day
     # - cron: "0 19 * * *"
+    # Runs at 0am UTC (11am AESt) every day
+    # - cron: "0 0 * * *"
     # Runs every hour
     - cron: "0 * * * *"
   workflow_dispatch:
