@@ -10,7 +10,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
 C#   1 hr 7 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
