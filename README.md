@@ -10,7 +10,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
 C#           11 hrs 5 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀   87.28 % 
 JavaScript   55 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.29 % 
