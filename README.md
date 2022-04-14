@@ -11,10 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2022 - To: 12 April 2022
+From: 06 April 2022 - To: 13 April 2022
 
-C#      16 hrs 29 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀   83.13 %
-Other   2 hrs 34 mins   ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.98 %
+C#      16 hrs 19 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀   89.11 %
+Other   1 hr 31 mins    ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.31 %
 ```
 
 <!--END_SECTION:waka-->
