@@ -6,7 +6,7 @@
 - 💬 Ask me about Anything
 - 📫 Reach me through email: warrenwei.work@gmail.com
 
-[![Warren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Warren-Wei&count_private=true&theme=gotham&show_icons=true&hide_border=true)](https://github.com/Warren-Wei)<br/>
+[![Warren's GitHub stats](https://github-readme-stats.vercel.app/api?username=wrrnw&count_private=true&theme=gotham&show_icons=true&hide_border=true)](https://github.com/wrrnw)<br/>
 
 <!--START_SECTION:waka-->
 
